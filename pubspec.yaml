@@ -33,6 +33,8 @@ dependencies:
   pinput: ^2.2.16
   # Rating Bar
   flutter_rating_bar: ^4.0.1
+  # Stepper
+  cupertino_stepper: ^0.2.1
   # Flutter Chart Bar
   syncfusion_flutter_charts: ^20.2.48
 
