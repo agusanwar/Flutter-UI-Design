@@ -41,34 +41,6 @@ class _AniimationLoadingState extends State<AniimationLoading>
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            // Lottie.network(
-            //   'https://assets7.lottiefiles.com/packages/lf20_jvtpl16e.json',
-            //   height: 80,
-            //   width: 80,
-            // ),
-            // Container(
-            //   margin: EdgeInsets.only(
-            //     top: 20,
-            //   ),
-            //   width: double.infinity,
-            //   height: 40.0,
-            //   padding: EdgeInsets.symmetric(horizontal: 24.0),
-            //   child: LiquidLinearProgressIndicator(
-            //     value: _animationController.value,
-            //     backgroundColor: Colors.white,
-            //     valueColor:
-            //         AlwaysStoppedAnimation(Color.fromARGB(255, 5, 10, 39)),
-            //     borderRadius: 12.0,
-            //     center: Text(
-            //       "${percentage.toStringAsFixed(0)}%",
-            //       style: TextStyle(
-            //         color: Color.fromARGB(255, 18, 88, 107),
-            //         fontSize: 20.0,
-            //         fontWeight: FontWeight.bold,
-            //       ),
-            //     ),
-            //   ),
-            // ),
             Center(
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
@@ -97,35 +69,6 @@ class _AniimationLoadingState extends State<AniimationLoading>
                 ],
               ),
             ),
-            // Center(
-            //   child: SizedBox(
-            //     width: 150.0,
-            //     height: 150.0,
-            //     child: LiquidCircularProgressIndicator(
-            //       value: _animationController.value,
-            //       backgroundColor: Colors.white,
-            //       valueColor: AlwaysStoppedAnimation(Colors.blue),
-            //       center: Column(
-            //         mainAxisAlignment: MainAxisAlignment.center,
-            //         children: [
-            //           Text(
-            //             "${percentage.toStringAsFixed(0)}%",
-            //             style: TextStyle(
-            //               color: Colors.lightBlueAccent,
-            //               fontSize: 20.0,
-            //               fontWeight: FontWeight.bold,
-            //             ),
-            //           ),
-            //           Lottie.network(
-            //             'https://assets7.lottiefiles.com/packages/lf20_s4tubmwg.json',
-            //             width: 120,
-            //             height: 120,
-            //           ),
-            //         ],
-            //       ),
-            //     ),
-            //   ),
-            // ),
           ],
         ),
       ),
