@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-
-import 'package:uidesign/screens/rating_bar/rating.dart';
-import 'package:uidesign/screens/stepper/stepper.dart';
+import 'package:uidesign/screens/choise_chip/chiose_chip.dart';
 
 void main() {
   runApp(const MyApp());
@@ -19,6 +17,6 @@ class MyApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
-        home: const StepperScreens());
+        home: const ChoiseChipScreens());
   }
 }
