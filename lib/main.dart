@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:uidesign/screens/pin_code/pin_code.dart';
+import 'package:uidesign/screens/rating_bar/rating.dart';
 
 void main() {
   runApp(const MyApp());
@@ -18,6 +18,6 @@ class MyApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
-        home: const PinCodeScreens());
+        home: const RatingScreens());
   }
 }
