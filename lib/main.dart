@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:uidesign/screens/choise_chip/chiose_chip.dart';
+import 'package:uidesign/screens/sliverappbar/sliverappbar.dart';
 
 void main() {
   runApp(const MyApp());
@@ -17,6 +17,6 @@ class MyApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
-        home: const ChoiseChipScreens());
+        home: const Sliverapp());
   }
 }
