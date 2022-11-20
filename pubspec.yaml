@@ -35,6 +35,8 @@ dependencies:
   liquid_progress_indicator: ^0.4.0
   # Lottie Animation
   lottie: ^1.4.3
+  # Percent IndicAtor
+  percent_indicator: ^4.2.2
   # Pin input
   pinput: ^2.2.16
   # Rating Bar
