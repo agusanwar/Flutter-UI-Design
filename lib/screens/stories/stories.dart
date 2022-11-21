@@ -28,7 +28,7 @@ class _StoriesScreensState extends State<StoriesScreens> {
           SizedBox(
             height: 100,
             child: ListView.builder(
-              itemCount: 7,
+              itemCount: 10,
               scrollDirection: Axis.horizontal,
               itemBuilder: (context, index) {
                 return Center(

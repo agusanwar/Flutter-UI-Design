@@ -43,6 +43,8 @@ dependencies:
   flutter_rating_bar: ^4.0.1
   # Stepper
   cupertino_stepper: ^0.2.1
+  # Slidable
+  flutter_slidable: ^2.0.0
   # Flutter Chart Bar
   syncfusion_flutter_charts: ^20.2.48
 

@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:uidesign/screens/responsive_design/responsive_design.dart';
 import 'package:uidesign/screens/responsive_design/widget/responsive/responsive_layout.dart';
+import 'package:uidesign/screens/slidable/slidable.dart';
 import 'package:uidesign/screens/sliverappbar/sliverappbar.dart';
 import 'package:uidesign/screens/stories/stories.dart';
 
@@ -20,6 +21,6 @@ class MyApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
-        home: const StoriesScreens());
+        home: const SlidableScreens());
   }
 }
