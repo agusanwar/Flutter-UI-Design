@@ -31,6 +31,8 @@ dependencies:
   dio: ^4.0.6
   # Animation Bar
   flutter_animation_progress_bar: ^2.2.1
+  # Pull to Refresh
+  liquid_pull_to_refresh: ^3.0.1
   # Indicator Bar
   liquid_progress_indicator: ^0.4.0
   # Lottie Animation
@@ -45,6 +47,8 @@ dependencies:
   cupertino_stepper: ^0.2.1
   # Slidable
   flutter_slidable: ^2.0.0
+  # Slide Act
+  slide_to_act: ^2.0.1
   # Flutter Chart Bar
   syncfusion_flutter_charts: ^20.2.48
 
