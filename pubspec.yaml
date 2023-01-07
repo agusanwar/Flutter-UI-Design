@@ -31,12 +31,14 @@ dependencies:
   dio: ^4.0.6
   # Animation Bar
   flutter_animation_progress_bar: ^2.2.1
+  # hexacolor
+  hexcolor: ^3.0.1
   # Pull to Refresh
   liquid_pull_to_refresh: ^3.0.1
   # Indicator Bar
   liquid_progress_indicator: ^0.4.0
   # Lottie Animation
-  lottie: ^1.4.3
+  lottie: ^2.1.0
   # Percent IndicAtor
   percent_indicator: ^4.2.2
   # Pin input
