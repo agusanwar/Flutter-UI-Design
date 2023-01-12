@@ -29,8 +29,12 @@ dependencies:
   day_night_switcher: ^0.2.0+1
   # Dio Http Client
   dio: ^4.0.6
+  # Chart
+  fl_chart: ^0.55.2
   # Animation Bar
   flutter_animation_progress_bar: ^2.2.1
+  # Flutter SVG
+  flutter_svg: ^1.1.6
   # hexacolor
   hexcolor: ^3.0.1
   # Pull to Refresh

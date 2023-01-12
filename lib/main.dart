@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:uidesign/screens/switch_day_night/switch_day_night.dart';
+import 'package:uidesign/covid/covid.dart';
 
 void main() {
   runApp(const MyApp());
@@ -17,6 +17,6 @@ class MyApp extends StatelessWidget {
         theme: ThemeData(
           primarySwatch: Colors.blue,
         ),
-        home: const SwitchDayNight());
+        home: const CovidScreens());
   }
 }
